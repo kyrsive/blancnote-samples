@@ -1,4 +1,4 @@
-# imagomeri-samples
+# blancnote-samples
 
 a collection of drum sounds, loops, and oneshots to be used in strudel from the two [blancnote](https://blancnote.xyz/) sample packs
 
